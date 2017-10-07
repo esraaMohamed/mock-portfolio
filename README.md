@@ -1,4 +1,4 @@
 # mock-portfolio
 Source code for a Mock Portfolio website.
 
-Just open it using chrome web browser.
+Just open the portofolio.html file using chrome web browser.
