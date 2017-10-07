@@ -1,0 +1,89 @@
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  font-family: monaco,AndaleMono,Calibri,Verdana,Geneva,sans-serif;
+}
+
+header {
+  float: right;
+  text-align: right;
+  display: inline-block;
+}
+
+footer {
+  bottom: 0;
+  margin: 20%;
+  font-family: inherit;
+  font-size: 12px;
+  text-align: center;
+}
+
+hr {
+  display: block;
+  width: 100%;
+  border-top: 5px solid #7d97ad;
+}
+
+.dark-grey {
+  color: #2d3c49;
+}
+
+.light-grey {
+  color: #7d97ad;
+}
+
+.blue {
+  color: #02b3e4;
+}
+
+.u-logo {
+  display: inline-block;
+  width: 5%;
+  height: inherit;
+  margin-top:65px;
+}
+
+.main-img {
+  display: block;
+  width: 100%;
+  height: 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#projects-header {
+    margin: 10px;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+.project-logo {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+
+.project-link {
+  font-family: inherit;
+  font-size: 10px;
+  text-align: center;
+}
+
+.project-name {
+  font-family: inherit;
+  font-size: 20px;
+  text-align: center;
+}
+
+#projects {
+  display: flex;
+}
+
+#first, #second, #third {
+  padding: 10px;
+  width: 31%;
+  height: 300px;
+  text-align: center;
+  display: inline-block;
+}
