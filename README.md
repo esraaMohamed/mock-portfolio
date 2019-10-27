@@ -1,5 +1,5 @@
 # mock-portfolio
-##Source code for a Mock Portfolio website.
+**Source code for a Mock Portfolio website (a Udacity Project).**
 
 **What you need:**
  >A web browser (ex:_Google Chrome_)
